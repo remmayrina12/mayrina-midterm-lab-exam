@@ -9,3 +9,5 @@ class post_comments extends Model
 {
     use HasFactory;
 }
+
+
